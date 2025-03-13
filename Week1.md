@@ -17,8 +17,9 @@ REST (Representational State Transfer) APIs allow different software application
 During my internship, I gained valuable experience working with Django while developing the PyShop e-commerce application. I focused on building a traditional web application, which helped me understand how different components interact.
 
 Key tasks included:
-- Implementing functionalities to manage products and offers.
-- Building models, views, and URL mappings to structure the application.
-- Using Postman to test various endpoints and ensure everything worked correctly.
+- Developed an example Django project from scratch.
+- Implemented functionalities to manage products and offers.
+- Built models, views, and URL mappings to structure the application.
+- Improved version control skills using Git for effective collaboration.
 
-This hands-on work improved my knowledge of Django’s architecture. The next step in my learning journey is to build a project using the Django REST Framework, which will deepen my understanding of API development.
+This hands-on work enhanced my knowledge of Django’s architecture. The next step in my learning journey is to build a project using the Django REST Framework, which will deepen my understanding of API development.
